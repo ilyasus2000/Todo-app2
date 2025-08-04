@@ -35,7 +35,7 @@ A clean and simple **Todo List application** built with **React**, supporting ta
 ### 1. Clone the repo
 
 
-1. 1. Clone the repo
+1.  Clone the repo
 git clone https://github.com/ilyasus2000/your-todo-app.git
 cd your-todo-app
 
