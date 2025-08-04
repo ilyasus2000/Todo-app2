@@ -46,17 +46,6 @@ npm install
 npm start
 The app will open in your browser at http://localhost:3000.
 
-
-Project Structure
-
-src/
-├── components/
-│   ├── TodoList.js
-│   └── TodoForm.js
-├── App.js
-├── App.css
-└── index.js
-
 🛠 Customization Ideas
 Save todos in localStorage to persist after refresh
 Add filters: All / Active / Completed
